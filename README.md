@@ -69,14 +69,14 @@ project/
    ```bash
    mongod
    ```
-3. **Start the MongoDB server:**:
-   ```bash
-   mongod
-   ```
-3. **Run the backend server:**:
+4. **Run the backend server:**:
    ```bash
    node server.js
    ```
+5. Open ```index.html``` in your browser to access the Contact Us form.
+6. Navigate to ```list.html``` to view submitted data.
+
+
 ## Future Improvements
 1. Add form validation for improved user experience.
 2. Implement edit functionality to update existing entries.
