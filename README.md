@@ -1,6 +1,6 @@
 # Contact Management Web Application
 
-A simple web application that allows users to submit contact details through a form and displays the data in a list format on a separate page. The list page includes options to edit entries and process their statuses. This project uses HTML, Tailwind CSS, JavaScript, Node.js, Express, and MongoDB for backend storage.
+A simple web application that allows users to submit contact details through a form and displays the data in a list format on a separate page. The list page includes options to edit entries and process their statuses. This project uses HTML, Tailwind CSS, JavaScript, Node.js, and MongoDB for backend storage.
 
 ---
 
